@@ -1,0 +1,27 @@
+they are a very powerful tool that allow manual manipulation of memory
++ I think they are good as a learning tool to force yourself to learn memory management
+
+
+1- they try to make codding more easy for newer developers by allowing them to build apps without needing to handle memory manually
+2- pointers can be dangerous if misused as they can cause memory leeks and out of bound errors
+
+
+languages that have automatic garbage collectors and such can be a lot easier to got into quickly and start building projects but on the other hand they take freedom from the developers to manage code in the low level
+languages that relays on the developers to manually manage memory are a lot more powerful but they can be difficult for new developers and memory safety becomes very important when codding in them
+
+
+1- x is a normal pointer to a normal int object that have the value 5 
+
+2- x is a normal pointer to a const int object 
+(عادي البوينتر يبوينت علي حاجة تانية بس ميقدرش يغير الفاليو الي بيبوينت عليها من 5 لاي حاجة)
+
+3- x is a const pointer to a normal int object 
+(عادي الفاليو الي بيبوينت عليها تتغير لكن ميقدرش يبوينت علي حاجة تانية)
+
+4- x is a const pointer to a const int object
+(مينفعش نغير ولا الفاليو ولا الادرس الي  البوينتر ببوينت عليه)
+
+
+
+the OS 
+لما بنالوكيت ميموري في الكود هوا فعليا احنا مش بنالوكيت من الكود نفسه احنا بنعمل request لل OS يالوكييت ميموري لينا
