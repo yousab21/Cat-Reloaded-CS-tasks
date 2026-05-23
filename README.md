@@ -2,7 +2,7 @@
 
 # 🐱 CAT Reloaded — Task Submissions
 
-**Computer Scince circle**
+**Computer Science circle**
 
 *Weekly DSA & project task submissions for the CAT Reloaded structured learning roadmap.*
 
@@ -10,7 +10,7 @@
 
 ## 🏆 Top Member — May
 
-> I am humbly proud to be selected as one of the **Top Members** in the computer scince circle.
+> I am honored to be selected as one of the **Top Members** in the Computer Science circle.
 
 <div align="center">
 
@@ -31,21 +31,17 @@ Each week's directory holds:
 
 ---
 
-## 📂 Repository Structure
-
----
-
 ## 📅 Weekly Progress
 
 | Week | Topic | LeetCode | Extra Tasks |
 |------|-------|----------|-------------|
 | 01 | recap on pointer and oop | ✅ | mini project |
-| 02 | time/space complixty + Stack | ✅ | — |
+| 02 | time/space complexity + Stack | ✅ | — |
 | 03 | Queue + Linked List | ✅ | — |
 | 04 | recap on Linked list | ✅ | — |
-| 05 | sorting alogrithems | ✅ | — |
-| 06 | frequancy array + pre/post fix sum | ✅ | — |
-| 07 | two pointers ad-hocs | ✅ | — |
+| 05 | sorting algorithms | ✅ | — |
+| 06 | frequency array + pre/post fix sum | ✅ | — |
+| 07 | two pointers ad-hocs | ✅ | challenge task |
 
 > *Table updates each week as tasks are submitted.*
 
@@ -57,7 +53,7 @@ The circle covers core CS fundamentals in a structured, week-by-week format so f
 
 - **Data Structures** — Stacks, Queues, Linked Lists
 - **Algorithms** — Sorting
-- **Problem Solving** — frequancy array , prefix/postfix sum , two pointers , add-hocs
+- **Problem Solving** — frequency array , prefix/postfix sum , two pointers , ad-hocs
 ---
 
 ## 💬 My Experience with CAT Reloaded
@@ -72,7 +68,7 @@ My time with CAT Reloaded has been genuinely positive. The structured pacing, pe
 
 - Passionate about systems programming, hardware-software integration, and problem solving
 - Neovim + Linux daily driver
-- Exploring embedded systems, gpu programming, and competitive programming
+- Exploring backend\networking, gpu programming, and competitive programming
 
 ---
 
