@@ -42,6 +42,7 @@ Each week's directory holds:
 | 05 | sorting algorithms | ✅ | — |
 | 06 | frequency array + pre/post fix sum | ✅ | — |
 | 07 | two pointers ad-hocs | ✅ | challenge task |
+| 08 | recape on all previose | ✅ | - |
 
 > *Table updates each week as tasks are submitted.*
 
