@@ -43,6 +43,10 @@ Each week's directory holds:
 | 06 | frequency array + pre/post fix sum | ✅ | — |
 | 07 | two pointers ad-hocs | ✅ | challenge task |
 | 08 | recape on all previose | ✅ | - |
+| 09 | - | - | skipped |
+| 10 | binary operations + bit masking | ✅ | - |
+| 11 | advanced recursion | ✅ | - |
+| 12 | backtracking + kadane's algorithem | ✅ | - |
 
 > *Table updates each week as tasks are submitted.*
 
@@ -54,7 +58,7 @@ The circle covers core CS fundamentals in a structured, week-by-week format so f
 
 - **Data Structures** — Stacks, Queues, Linked Lists
 - **Algorithms** — Sorting
-- **Problem Solving** — frequency array , prefix/postfix sum , two pointers , ad-hocs
+- **Problem Solving** — frequency array , prefix/postfix sum , two pointers , bit masking , ad-hocs, recursion , backtracking
 ---
 
 ## 💬 My Experience with CAT Reloaded
