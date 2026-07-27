@@ -43,7 +43,7 @@ Each week's directory holds:
 | 06 | frequency array + pre/post fix sum | ✅ | — |
 | 07 | two pointers ad-hocs | ✅ | challenge task |
 | 08 | recape on all previose | ✅ | - |
-| 09 | - | - | skipped |
+| 09 | skipped | - | - |
 | 10 | binary operations + bit masking | ✅ | - |
 | 11 | advanced recursion | ✅ | - |
 | 12 | backtracking + kadane's algorithem | ✅ | - |
